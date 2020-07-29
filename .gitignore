@@ -1,0 +1,9 @@
+
+so.DS_Store
+.idea/.name
+*.xml
+*.pyc
+*.iml
+.gitattributes
+private/secrets.py
+.DS_Store

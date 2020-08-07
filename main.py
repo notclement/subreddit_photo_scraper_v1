@@ -1,6 +1,6 @@
-'''
+"""
 Written by: Clement
-'''
+"""
 
 import sys
 import praw
@@ -34,7 +34,7 @@ class Submission:
                                       self.title,
                                       self.author,
                                       self.score,
-                                      'www.reddit.com'+self.permalink,
+                                      'www.reddit.com' + self.permalink,
                                       self.url
                                   ))
 
